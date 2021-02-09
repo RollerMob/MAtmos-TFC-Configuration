@@ -16,7 +16,7 @@ Here is a [guide](https://imgur.com/a/WqazXXC)
 
 
 
-To install:
+**To install**:
 
 Extract or open the contents of the compressed (.zip) folder.
 Drag the config folder into your .minecraft folder.
@@ -25,7 +25,7 @@ NOTE: IF YOU DISABLE THE OVERRIDEN EXPANSIONS BY SETTING VOLUME TO 0, YOU WILL D
 
 
 
-To install optional soundpack:
+**To install optional soundpack**:
 
 If you plan on using both the Default 2016 and Zen 2020 packs, there is an included (optional) version
 of the Default 2016 soundpack with overlapping wind sounds disabled for an improved sound experience. 
