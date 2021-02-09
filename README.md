@@ -3,6 +3,7 @@ These files contain the MAtmos condition overrides for use with TFC/TFC+.
 
 This is the drag and drop version of the MAtmos condition overrides necessary for TFC and TFC+.
 The conditions overriden allow for high altitude wind and ambience to play correctly through MAtmos while TFC/TFC+ is installed.
+The reason users must override these conditions is because the soundpacks are designed with vanilla in mind, and thus, do not recognize the changes to altitude and sea level in TFC/TFC+. Without these changes, high altitude ambience will ALWAYS play. This is not only immersion breaking, but also, obnoxious.
 
 The overrides included are for two soundpacks:
    - MAtmos Default 2016
