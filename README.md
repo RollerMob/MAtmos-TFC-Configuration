@@ -12,7 +12,7 @@ The overrides included are for two soundpacks:
 
 If you are using any other soundpacks or would like to make these changes yourself:
 
-Here is a guide: https://imgur.com/a/WqazXXC
+Here is a [guide](https://imgur.com/a/WqazXXC)
 
 
 
