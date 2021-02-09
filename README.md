@@ -6,8 +6,8 @@ The conditions overriden allow for high altitude wind and ambience to play corre
 The reason users must override these conditions is because the soundpacks are designed with vanilla in mind, and thus, do not recognize the changes to altitude and sea level in TFC/TFC+. Without these changes, high altitude ambience will ALWAYS play. This is not only immersion breaking, but also, obnoxious.
 
 The overrides included are for two soundpacks:
-   - MAtmos Default 2016
-   - MAtmos "Zen"  2020
+   - [MAtmos Default 2016](https://github.com/makamys/MAtmos-2016-Default)
+   - [MAtmos "Zen"  2020](https://github.com/makamys/MAtmos-2020-Zen)
 
 
 If you are using any other soundpacks or would like to make these changes yourself:
