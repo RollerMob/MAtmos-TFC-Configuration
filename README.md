@@ -17,7 +17,7 @@ Here is a guide: https://imgur.com/a/WqazXXC
 
 To install:
 
-Extract or open the contents of the .zip with a program such as 7zip or Winrar.
+Extract or open the contents of the compressed (.zip) folder.
 Drag the config folder into your .minecraft folder.
 
 NOTE: IF YOU DISABLE THE OVERRIDEN EXPANSIONS BY SETTING VOLUME TO 0, YOU WILL DISABLE THE OVERRIDES AND WILL HAVE TO REDO THIS PROCESS.
