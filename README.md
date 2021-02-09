@@ -1,4 +1,4 @@
-# MAtmos-TFC-Configuration
+# MAtmos Condition Overrides for TFC & TFC+
 These files contain the MAtmos condition overrides for use with TFC/TFC+.
 
 This is the drag and drop version of the MAtmos condition overrides necessary for TFC and TFC+.
